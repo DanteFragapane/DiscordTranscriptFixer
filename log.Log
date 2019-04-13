@@ -1,0 +1,793 @@
+__main__ INFO 2019-03-22 14:48:45,459 - Logger is at level: 0
+__main__ DEBUG 2019-03-22 14:48:45,460 - Local input path: _input.txt  Local output path: _output.txt
+__main__ DEBUG 2019-03-22 14:48:45,462 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[4:34 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,463 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[4:41 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,463 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[4:43 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,463 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[4:59 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,463 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:00 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,463 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:00 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,463 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:01 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,463 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:01 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,463 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:01 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,463 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:01 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,463 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:02 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,464 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:30 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,464 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:32 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,464 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[6:05 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,464 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[6:05 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,464 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[8:57 AM]'>
+__main__ DEBUG 2019-03-22 14:48:45,464 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[9:06 AM]'>
+__main__ DEBUG 2019-03-22 14:48:45,464 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[9:07 AM]'>
+__main__ DEBUG 2019-03-22 14:48:45,464 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[9:07 AM]'>
+__main__ DEBUG 2019-03-22 14:48:45,464 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[9:11 AM]'>
+__main__ DEBUG 2019-03-22 14:48:45,464 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[9:14 AM]'>
+__main__ DEBUG 2019-03-22 14:48:45,464 - Matched: <_sre.SRE_Match object; span=(0, 10), match='[12:13 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,464 - Matched: <_sre.SRE_Match object; span=(0, 10), match='[12:14 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,465 - Matched: <_sre.SRE_Match object; span=(0, 10), match='[12:19 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,465 - Matched: <_sre.SRE_Match object; span=(0, 10), match='[12:20 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,465 - Matched: <_sre.SRE_Match object; span=(0, 10), match='[12:32 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,465 - Matched: <_sre.SRE_Match object; span=(0, 10), match='[12:33 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,465 - Matched: <_sre.SRE_Match object; span=(0, 10), match='[12:34 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,465 - Matched: <_sre.SRE_Match object; span=(0, 10), match='[12:34 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,465 - Matched: <_sre.SRE_Match object; span=(0, 10), match='[12:35 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,465 - Matched: <_sre.SRE_Match object; span=(0, 10), match='[12:51 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,465 - Matched: <_sre.SRE_Match object; span=(0, 10), match='[12:51 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,465 - Matched: <_sre.SRE_Match object; span=(0, 10), match='[12:52 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,465 - Matched: <_sre.SRE_Match object; span=(0, 10), match='[12:52 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,465 - Matched: <_sre.SRE_Match object; span=(0, 10), match='[12:52 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,465 - Matched: <_sre.SRE_Match object; span=(0, 10), match='[12:52 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,465 - Matched: <_sre.SRE_Match object; span=(0, 10), match='[12:52 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,466 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[1:00 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,466 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[1:04 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,466 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[2:32 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,466 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[2:32 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,466 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[2:32 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,466 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[2:32 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,466 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[2:33 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,466 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[2:33 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,466 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[2:34 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,466 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[2:34 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,466 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[2:34 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,466 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[2:37 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,466 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[2:37 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,466 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[2:37 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,467 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[2:38 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,467 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[4:11 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,467 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[4:12 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,467 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:16 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,467 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:16 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,467 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:17 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,467 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:17 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,467 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:17 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,467 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:17 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,467 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:17 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,467 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:20 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,468 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:24 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,468 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:44 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,468 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:44 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,468 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:45 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,468 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:45 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,468 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:45 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,468 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:45 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,468 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[5:45 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,468 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[6:40 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,468 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[6:40 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,469 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[6:44 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,469 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[6:44 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,469 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[6:44 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,469 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[6:48 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,469 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[6:48 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,469 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[6:48 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,469 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[6:51 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,469 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[6:51 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,469 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[6:53 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,469 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[7:00 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,469 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[7:01 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,470 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[7:01 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,470 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[7:01 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,470 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[7:01 PM]'>
+__main__ DEBUG 2019-03-22 14:48:45,470 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[7:04 AM]'>
+__main__ DEBUG 2019-03-22 14:48:45,470 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[7:05 AM]'>
+__main__ DEBUG 2019-03-22 14:48:45,470 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[7:06 AM]'>
+__main__ DEBUG 2019-03-22 14:48:45,470 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[7:06 AM]'>
+__main__ DEBUG 2019-03-22 14:48:45,470 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[7:06 AM]'>
+__main__ DEBUG 2019-03-22 14:48:45,470 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[7:07 AM]'>
+__main__ DEBUG 2019-03-22 14:48:45,470 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[7:07 AM]'>
+__main__ DEBUG 2019-03-22 14:48:45,470 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[7:07 AM]'>
+__main__ DEBUG 2019-03-22 14:48:45,470 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[7:08 AM]'>
+__main__ DEBUG 2019-03-22 14:48:45,471 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[7:08 AM]'>
+__main__ DEBUG 2019-03-22 14:48:45,471 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[7:10 AM]'>
+__main__ DEBUG 2019-03-22 14:48:45,471 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[8:06 AM]'>
+__main__ DEBUG 2019-03-22 14:48:45,471 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[8:06 AM]'>
+__main__ DEBUG 2019-03-22 14:48:45,471 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[8:08 AM]'>
+__main__ DEBUG 2019-03-22 14:48:45,471 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[8:11 AM]'>
+__main__ DEBUG 2019-03-22 14:48:45,471 - Matched: <_sre.SRE_Match object; span=(0, 9), match='[8:16 AM]'>
+__main__ DEBUG 2019-03-22 14:48:45,471 - 
+ j: 
+
+j
+
+
+__main__ DEBUG 2019-03-22 14:48:45,471 - 
+ j: 
+
+j
+
+
+__main__ DEBUG 2019-03-22 14:48:45,472 - 
+ j: 
+
+j
+
+
+__main__ DEBUG 2019-03-22 14:48:45,472 - 
+ j: 
+
+jPsjthekid
+
+
+__main__ DEBUG 2019-03-22 14:48:45,472 - 
+ j: Psjthekid
+
+jAKAThat One Bat, Night Wish
+
+
+__main__ DEBUG 2019-03-22 14:48:45,472 - 
+ j: AKAThat One Bat, Night Wish
+
+jSearch
+
+
+__main__ DEBUG 2019-03-22 14:48:45,472 - 
+ j: Search
+
+j
+
+
+__main__ DEBUG 2019-03-22 14:48:45,472 - 
+ j: 
+
+jLOAD MORE MESSAGES
+
+
+__main__ DEBUG 2019-03-22 14:48:45,472 - 
+ j: LOAD MORE MESSAGES
+
+j Psjthekid: I loooooooovvvvvvvveeeee yoooooooouuuu
+
+
+__main__ DEBUG 2019-03-22 14:48:45,472 - 
+ j:  Psjthekid: I loooooooovvvvvvvveeeee yoooooooouuuu
+
+j Little Ling / Lily: I love you so much
+
+
+__main__ DEBUG 2019-03-22 14:48:45,472 - 
+ j:  Little Ling / Lily: I love you so much
+
+j Psjthekid: kisses your ears
+
+
+__main__ DEBUG 2019-03-22 14:48:45,472 - 
+ j:  Psjthekid: kisses your ears
+
+j Psjthekid: Love
+
+
+__main__ DEBUG 2019-03-22 14:48:45,472 - 
+ j:  Love
+
+j Little Ling / Lily: I'm gonna be at work for another two hours
+
+
+__main__ DEBUG 2019-03-22 14:48:45,472 - 
+ j:  Little Ling / Lily: I'm gonna be at work for another two hours
+
+j Little Ling / Lily: Goodnight beautiful.
+
+
+__main__ DEBUG 2019-03-22 14:48:45,472 - 
+ j:  Goodnight beautiful.
+
+j Psjthekid: At the translancs rally someone made their bus into a camper
+
+
+__main__ DEBUG 2019-03-22 14:48:45,473 - 
+ j:  Psjthekid: At the translancs rally someone made their bus into a camper
+
+j Psjthekid: It looked so homely
+
+
+__main__ DEBUG 2019-03-22 14:48:45,473 - 
+ j:  It looked so homely
+
+j Psjthekid: Can we do it?
+
+
+__main__ DEBUG 2019-03-22 14:48:45,473 - 
+ j:  Can we do it?
+
+j Little Ling / Lily: Hehe yus
+
+
+__main__ DEBUG 2019-03-22 14:48:45,473 - 
+ j:  Little Ling / Lily: Hehe yus
+
+j Psjthekid: I wanted to snuggle into it
+
+
+__main__ DEBUG 2019-03-22 14:48:45,473 - 
+ j:  Psjthekid: I wanted to snuggle into it
+
+j Psjthekid:
+
+
+__main__ DEBUG 2019-03-22 14:48:45,473 - 
+ j: 
+
+j Psjthekid:
+
+
+__main__ DEBUG 2019-03-22 14:48:45,473 - 
+ j: 
+
+j Little Ling / Lily: Okay that's really cute
+
+
+__main__ DEBUG 2019-03-22 14:48:45,473 - 
+ j:  Little Ling / Lily: Okay that's really cute
+
+j Little Ling / Lily: Goodnight gorgeous. I love you so much cuddles in bed and wraps my arms around you
+
+
+__main__ DEBUG 2019-03-22 14:48:45,473 - 
+ j:  Goodnight gorgeous. I love you so much cuddles in bed and wraps my arms around you
+
+jOctober 2, 2018
+
+
+__main__ DEBUG 2019-03-22 14:48:45,473 - 
+ j: October 2, 2018
+
+j Little Ling / Lily: Dreamed of you~
+
+
+__main__ DEBUG 2019-03-22 14:48:45,473 - 
+ j:  Dreamed of you~
+
+j Psjthekid: Eee
+
+
+__main__ DEBUG 2019-03-22 14:48:45,473 - 
+ j:  Psjthekid: Eee
+
+j Little Ling / Lily: kisses lovingly
+
+
+__main__ DEBUG 2019-03-22 14:48:45,473 - 
+ j:  Little Ling / Lily: kisses lovingly
+
+j Little Ling / Lily: I love you so so much
+
+
+__main__ DEBUG 2019-03-22 14:48:45,474 - 
+ j:  I love you so so much
+
+j Psjthekid: acts like swiggity swooty bat
+
+
+__main__ DEBUG 2019-03-22 14:48:45,474 - 
+ j:  Psjthekid: acts like swiggity swooty bat
+
+j Little Ling / Lily: giggles and tackles mine
+
+
+__main__ DEBUG 2019-03-22 14:48:45,474 - 
+ j:  Little Ling / Lily: giggles and tackles mine
+
+j Psjthekid: Well that’s it
+
+
+__main__ DEBUG 2019-03-22 14:48:45,474 - 
+ j:  Psjthekid: Well that’s it
+
+j Psjthekid: Jobless again
+
+
+__main__ DEBUG 2019-03-22 14:48:45,474 - 
+ j:  Jobless again
+
+j Little Ling / Lily: aw..............
+
+
+__main__ DEBUG 2019-03-22 14:48:45,474 - 
+ j:  Little Ling / Lily: aw..............
+
+j Little Ling / Lily: I love you
+
+
+__main__ DEBUG 2019-03-22 14:48:45,474 - 
+ j:  I love you
+
+j Little Ling / Lily: kisses
+
+
+__main__ DEBUG 2019-03-22 14:48:45,474 - 
+ j:  kisses
+
+j Psjthekid: is bat
+
+
+__main__ DEBUG 2019-03-22 14:48:45,474 - 
+ j:  Psjthekid: is bat
+
+j Little Ling / Lily: slowly starts petting as I kiss your forehead mine~
+
+
+__main__ DEBUG 2019-03-22 14:48:45,474 - 
+ j:  Little Ling / Lily: slowly starts petting as I kiss your forehead mine~
+
+j Psjthekid:
+
+
+__main__ DEBUG 2019-03-22 14:48:45,474 - 
+ j:  Psjthekid:
+
+j Little Ling / Lily: XDDDDDDDD
+
+
+__main__ DEBUG 2019-03-22 14:48:45,474 - 
+ j:  Little Ling / Lily: XDDDDDDDD
+
+j Psjthekid: I’m looking at open university
+
+
+__main__ DEBUG 2019-03-22 14:48:45,475 - 
+ j:  Psjthekid: I’m looking at open university
+
+j Little Ling / Lily: yay
+
+
+__main__ DEBUG 2019-03-22 14:48:45,475 - 
+ j:  Little Ling / Lily: yay
+
+j Psjthekid: Costs a lot less than normal uni and I can study whenever
+
+
+__main__ DEBUG 2019-03-22 14:48:45,475 - 
+ j:  Psjthekid: Costs a lot less than normal uni and I can study whenever
+
+j Little Ling / Lily: yay
+
+
+__main__ DEBUG 2019-03-22 14:48:45,475 - 
+ j:  Little Ling / Lily: yay
+
+j Little Ling / Lily: licks
+
+
+__main__ DEBUG 2019-03-22 14:48:45,475 - 
+ j:  licks
+
+j Psjthekid: Why licks
+
+
+__main__ DEBUG 2019-03-22 14:48:45,475 - 
+ j:  Psjthekid: Why licks
+
+j Little Ling / Lily: because you're cute
+
+
+__main__ DEBUG 2019-03-22 14:48:45,475 - 
+ j:  Little Ling / Lily: because you're cute
+
+j Psjthekid:
+
+
+__main__ DEBUG 2019-03-22 14:48:45,475 - 
+ j:  Psjthekid:
+
+j Psjthekid:
+
+
+__main__ DEBUG 2019-03-22 14:48:45,475 - 
+ j: 
+
+j Psjthekid: Mommy
+
+
+__main__ DEBUG 2019-03-22 14:48:45,475 - 
+ j:  Mommy
+
+j Little Ling / Lily: Baby~
+
+
+__main__ DEBUG 2019-03-22 14:48:45,475 - 
+ j:  Little Ling / Lily: Baby~
+
+j Little Ling / Lily: At work until 10 cri
+
+
+__main__ DEBUG 2019-03-22 14:48:45,476 - 
+ j:  At work until 10 cri
+
+j Little Ling / Lily: Super super slow day tho
+
+
+__main__ DEBUG 2019-03-22 14:48:45,476 - 
+ j:  Super super slow day tho
+
+j Psjthekid: Aw
+
+
+__main__ DEBUG 2019-03-22 14:48:45,476 - 
+ j:  Psjthekid: Aw
+
+j Psjthekid: I has no job tho
+
+
+__main__ DEBUG 2019-03-22 14:48:45,476 - 
+ j:  I has no job tho
+
+j Little Ling / Lily: Hehe
+
+
+__main__ DEBUG 2019-03-22 14:48:45,476 - 
+ j:  Little Ling / Lily: Hehe
+
+j Little Ling / Lily: kissies
+
+
+__main__ DEBUG 2019-03-22 14:48:45,476 - 
+ j:  kissies
+
+j Little Ling / Lily: Mine~
+
+
+__main__ DEBUG 2019-03-22 14:48:45,476 - 
+ j:  Mine~
+
+j Psjthekid: Yours
+
+
+__main__ DEBUG 2019-03-22 14:48:45,476 - 
+ j:  Psjthekid: Yours
+
+j Little Ling / Lily: kisses mine
+
+
+__main__ DEBUG 2019-03-22 14:48:45,476 - 
+ j:  Little Ling / Lily: kisses mine
+
+j Psjthekid: Only mine
+
+
+__main__ DEBUG 2019-03-22 14:48:45,476 - 
+ j:  Psjthekid: Only mine
+
+j Little Ling / Lily: Yours~~
+
+
+__main__ DEBUG 2019-03-22 14:48:45,476 - 
+ j:  Little Ling / Lily: Yours~~
+
+j Psjthekid: :3
+
+
+__main__ DEBUG 2019-03-22 14:48:45,476 - 
+ j:  Psjthekid: :3
+
+j Little Ling / Lily: Hi beautiful~
+
+
+__main__ DEBUG 2019-03-22 14:48:45,477 - 
+ j:  Little Ling / Lily: Hi beautiful~
+
+j Little Ling / Lily: I love you..
+
+
+__main__ DEBUG 2019-03-22 14:48:45,477 - 
+ j:  I love you..
+
+j Psjthekid: Hugs
+
+
+__main__ DEBUG 2019-03-22 14:48:45,477 - 
+ j:  Psjthekid: Hugs
+
+j Little Ling / Lily: hugs weakly
+
+
+__main__ DEBUG 2019-03-22 14:48:45,477 - 
+ j:  Little Ling / Lily: hugs weakly
+
+j Psjthekid: Mine
+
+
+__main__ DEBUG 2019-03-22 14:48:45,477 - 
+ j:  Psjthekid: Mine
+
+j Little Ling / Lily: Yours..
+
+
+__main__ DEBUG 2019-03-22 14:48:45,477 - 
+ j:  Little Ling / Lily: Yours..
+
+j Psjthekid: Wuvyou
+
+
+__main__ DEBUG 2019-03-22 14:48:45,477 - 
+ j:  Psjthekid: Wuvyou
+
+j Little Ling / Lily: I love you..
+
+
+__main__ DEBUG 2019-03-22 14:48:45,477 - 
+ j:  Little Ling / Lily: I love you..
+
+j Psjthekid: Wuv you
+
+
+__main__ DEBUG 2019-03-22 14:48:45,477 - 
+ j:  Psjthekid: Wuv you
+
+j Little Ling / Lily: Eee
+
+
+__main__ DEBUG 2019-03-22 14:48:45,477 - 
+ j:  Little Ling / Lily: Eee
+
+j Little Ling / Lily: I was looking at residential programs, and I found a neat one working on a farm. 
+
+
+__main__ DEBUG 2019-03-22 14:48:45,477 - 
+ j:  I was looking at residential programs, and I found a neat one working on a farm. 
+
+jAverage stay? 3 to 9 months.
+
+
+__main__ DEBUG 2019-03-22 14:48:45,477 - 
+ j: Average stay? 3 to 9 months.
+
+jI noped the fuck outta that site XDD
+
+
+__main__ DEBUG 2019-03-22 14:48:45,477 - 
+ j: I noped the fuck outta that site XDD
+
+j Psjthekid: uh no(edited)
+
+
+__main__ DEBUG 2019-03-22 14:48:45,477 - 
+ j:  Psjthekid: uh no(edited)
+
+j Little Ling / Lily: XD
+
+
+__main__ DEBUG 2019-03-22 14:48:45,478 - 
+ j:  Little Ling / Lily: XD
+
+j Little Ling / Lily: Yup
+
+
+__main__ DEBUG 2019-03-22 14:48:45,478 - 
+ j:  Yup
+
+j Little Ling / Lily: Exactly
+
+
+__main__ DEBUG 2019-03-22 14:48:45,478 - 
+ j:  Exactly
+
+j Little Ling / Lily: Fuck that
+
+
+__main__ DEBUG 2019-03-22 14:48:45,478 - 
+ j:  Fuck that
+
+j Little Ling / Lily: For time AND financial reasons
+
+
+__main__ DEBUG 2019-03-22 14:48:45,478 - 
+ j:  For time AND financial reasons
+
+j Little Ling / Lily: I love you..
+
+
+__main__ DEBUG 2019-03-22 14:48:45,478 - 
+ j:  I love you..
+
+j Psjthekid: you need this tho
+
+
+__main__ DEBUG 2019-03-22 14:48:45,478 - 
+ j:  Psjthekid: you need this tho
+
+j Little Ling / Lily: I know baby
+
+
+__main__ DEBUG 2019-03-22 14:48:45,478 - 
+ j:  Little Ling / Lily: I know baby
+
+j Little Ling / Lily: kisses
+
+
+__main__ DEBUG 2019-03-22 14:48:45,478 - 
+ j:  kisses
+
+j Little Ling / Lily: I'll find one that's a month, not freaking 3 XD
+
+
+__main__ DEBUG 2019-03-22 14:48:45,478 - 
+ j:  I'll find one that's a month, not freaking 3 XD
+
+j Psjthekid: Ask your psych
+
+
+__main__ DEBUG 2019-03-22 14:48:45,478 - 
+ j:  Psjthekid: Ask your psych
+
+j Psjthekid: They might have some to offer
+
+
+__main__ DEBUG 2019-03-22 14:48:45,479 - 
+ j:  They might have some to offer
+
+j Psjthekid: You can’t be the first to want it
+
+
+__main__ DEBUG 2019-03-22 14:48:45,479 - 
+ j:  You can’t be the first to want it
+
+j Psjthekid: nuzzles and has stupid thought
+
+
+__main__ DEBUG 2019-03-22 14:48:45,479 - 
+ j:  nuzzles and has stupid thought
+
+j Psjthekid: sighs if only
+
+
+__main__ DEBUG 2019-03-22 14:48:45,479 - 
+ j:  sighs if only
+
+j Psjthekid: I know it can never happen
+
+
+__main__ DEBUG 2019-03-22 14:48:45,479 - 
+ j:  I know it can never happen
+
+j Little Ling / Lily: What love?
+
+
+__main__ DEBUG 2019-03-22 14:48:45,479 - 
+ j:  Little Ling / Lily: What love?
+
+j Little Ling / Lily: I doubt I'm the first
+
+
+__main__ DEBUG 2019-03-22 14:48:45,479 - 
+ j:  I doubt I'm the first
+
+j Little Ling / Lily: And that's the plan, talk to him about it
+
+
+__main__ DEBUG 2019-03-22 14:48:45,479 - 
+ j:  And that's the plan, talk to him about it
+
+j Psjthekid: You come over here for a month
+
+
+__main__ DEBUG 2019-03-22 14:48:45,479 - 
+ j:  Psjthekid: You come over here for a month
+
+j Little Ling / Lily: Hehe, that'd be nice
+
+
+__main__ DEBUG 2019-03-22 14:48:45,479 - 
+ j:  Little Ling / Lily: Hehe, that'd be nice
+
+jOctober 3, 2018
+
+
+__main__ DEBUG 2019-03-22 14:48:45,479 - 
+ j: October 3, 2018
+
+j Psjthekid: i finally fit my collar
+
+
+__main__ DEBUG 2019-03-22 14:48:45,479 - 
+ j:  Psjthekid: i finally fit my collar
+
+j Little Ling / Lily: Yay
+
+
+__main__ DEBUG 2019-03-22 14:48:45,479 - 
+ j:  Little Ling / Lily: Yay
+
+j Little Ling / Lily: Good girl
+
+
+__main__ DEBUG 2019-03-22 14:48:45,480 - 
+ j:  Good girl
+
+j Little Ling / Lily: kisses
+
+
+__main__ DEBUG 2019-03-22 14:48:45,480 - 
+ j:  kisses
+
+j Psjthekid: sighs and looks away from you
+
+
+__main__ DEBUG 2019-03-22 14:48:45,480 - 
+ j:  Psjthekid: sighs and looks away from you
+
+j Little Ling / Lily: Love?
+
+
+__main__ DEBUG 2019-03-22 14:48:45,480 - 
+ j:  Little Ling / Lily: Love?
+
+j Psjthekid: that pic..
+
+
+__main__ DEBUG 2019-03-22 14:48:45,480 - 
+ j:  Psjthekid: that pic..
+
+j Little Ling / Lily: You're okay beautiful
+
+
+__main__ DEBUG 2019-03-22 14:48:45,480 - 
+ j:  Little Ling / Lily: You're okay beautiful
+
+j Little Ling / Lily: I'll be back soon
+
+
+__main__ DEBUG 2019-03-22 14:48:45,480 - 
+ j:  I'll be back soon
+
+j Psjthekid: i cant look at it
+
+
+__main__ DEBUG 2019-03-22 14:48:45,480 - 
+ j:  Psjthekid: i cant look at it
+
+j Psjthekid: looks for a way to not show profile pics
+
+
+__main__ DEBUG 2019-03-22 14:48:45,480 - 
+ j:  looks for a way to not show profile pics
+
+j Little Ling / Lily: Why baby?
+
+
+__main__ DEBUG 2019-03-22 14:48:45,480 - 
+ j:  Little Ling / Lily: Why baby?
+
+j Little Ling / Lily: There hun
+
+
+__main__ DEBUG 2019-03-22 14:48:45,480 - 
+ j:  There hun
+
+j Psjthekid: I’m sorry
+
+
+__main__ DEBUG 2019-03-22 14:48:45,480 - 
+ j:  Psjthekid: I’m sorry
+
+j Little Ling / Lily: it's okay baby
+
+
+__main__ DEBUG 2019-03-22 14:48:45,481 - 
+ j:  Little Ling / Lily: it's okay baby
+
+j Little Ling / Lily: Yaaaas!
+
+
+__main__ DEBUG 2019-03-22 14:48:45,481 - 
+ j:  Yaaaas!
+
+j[8:16 AM] Little Ling / Lily: My transcript formatter works!
+
